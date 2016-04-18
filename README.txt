@@ -18,7 +18,7 @@ Pour m'assister dans cette lutte environnementale, j'ai décidé d'automatiser l
 - 1 sortie sur relais pour l'allumage / extinction d'une lampe
 - 1 sortie sur relais pour option future (chauffage, distributeur de nourriture, ... ?)
 
-Pour le partie mécanique, j'utilise des moteurs (il y deux portes) de four à micro-onde ou de volets roulants, couple énorme et vitesse de rotation faible. Quelques pièces imprimées en 3D (les pièces ont été conçues avec Google Sketchup) et quelques vis et boulons.
+Pour la partie mécanique, j'utilise des moteurs (il y deux portes) de four à micro-onde ou de volets roulants, couple énorme et vitesse de rotation faible. Quelques pièces imprimées en 3D (les pièces ont été conçues avec Google Sketchup) et quelques vis et boulons.
 
 La partie commande associe un raspberry B+ sous Raspbian, une horloge RTC DS1307, une clé Wi-fi, des relais chinois, un haut-parleur pour la diffusion des MP3, une caméra sur nappe CSI (caméra officielle du Pi), des sondes DHT11, une LDR, une alim et quelques composants et nappes ...
 
